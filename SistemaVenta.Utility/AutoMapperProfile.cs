@@ -17,6 +17,10 @@ namespace SistemaVenta.Utility
             #region Rol
             CreateMap<Rol,RolDTO>().ReverseMap();
             #endregion Rol
+
+            #region Menu
+            CreateMap<Menu, MenuDTO>().ReverseMap();
+            #endregion Menu
         }
     }
 }
