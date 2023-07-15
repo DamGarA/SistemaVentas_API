@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YBf1MkoVwUIPZ0lfGzDfGRmv1bFXt+d5OcSjzaU+eAk=",
+  "Source": "SisemaVenta.API",
+  "BasePath": "_content/SisemaVenta.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

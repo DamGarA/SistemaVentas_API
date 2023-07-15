@@ -1,0 +1,15 @@
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.deps.json
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.dll
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.MODEL.dll
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.MODEL.pdb
+K:\Programcion\Sistema_ventas\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete
