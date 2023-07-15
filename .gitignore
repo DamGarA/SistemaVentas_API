@@ -1,0 +1,44 @@
+# Carpeta de salida de compilación
+bin/
+obj/
+
+# Archivo de configuración del usuario
+*.user
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+[Tt]emp/
+[Oo]bj/
+
+# Archivos de respaldo y archivos temporales de Visual Studio
+*.[Bb]ak
+*~.nfm
+*~
+*.[Cc]ache
+*.swp
+*.tmp
+
+# Archivos de compilación de Visual Studio
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+
+# Carpeta de herramientas NuGet
+packages/
+
+# Archivos de respaldo de NuGet
+*.nupkg
+**/project.lock.json
+
+# Carpeta de publicación
+Publish/
+
+# Carpeta de almacenamiento de pruebas de Visual Studio
+TestResults/
+
+# Archivos de registro de Visual Studio
+*.VisualState.xml
